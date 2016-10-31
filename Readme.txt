@@ -1,0 +1,1 @@
+code so that the user should be able to change the location of the picture drawn using mouse click or click and drag. 
